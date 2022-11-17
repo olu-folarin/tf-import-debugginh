@@ -25,3 +25,8 @@
 #### 3. Run "terraform import resource_address resource_identifier(could be the id, public or private ip etc)"
 #### 4. Add the arguments into the resource block by looking them up in the newly-generated tfstate file.
 #### 5. Run terraform plan and terraform apply.
+
+
+
+
+### PS: git commit -a -m "A file was deleted"

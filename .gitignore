@@ -2,4 +2,4 @@
 *.tfstate
 *.hcl
 *.backup
-variable
+*variables
